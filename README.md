@@ -9,17 +9,17 @@ Below you can check a list of Asp.NET Core Resources:
 
 ### Tools
  - [*.NET Core SDK*](https://dotnet.microsoft.com/download) - The .NET Core Software Development Kit
- - [*Visual Studio 2019 Community*](https://visualstudio.microsoft.com/) - The Microsoft Development Tool Community Edition
- - [*Visual Studio Code*](https://code.visualstudio.com/) - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control
- - [*SonarLint*](https://www.sonarlint.org/)  - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code
+ - [*Visual Studio 2019 Community*](https://visualstudio.microsoft.com/)  -  The Microsoft Development Tool Community Edition
+ - [*Visual Studio Code*](https://code.visualstudio.com/)  -  Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control
+ - [*SonarLint*](https://www.sonarlint.org/)  -  SonarLint is an IDE extension that helps you detect and fix quality issues as you write code
 
 ### Repositories
-- [Asp.NET Core Repository at Github - Github repository of Asp.NET Core](https://github.com/dotnet/aspnetcore)
+- [Asp.NET Core Repository at Github](https://github.com/dotnet/aspnetcore)  -  Github repository of Asp.NET Core
 
 ### Sites
-- [The .NET Homepage - You can find a lot of .NET Core resource on that](https://dotnet.microsoft.com/)
-- [The .NET Core Download- You can see what version are being supported and when the supports end](https://dotnet.microsoft.com/download/dotnet-core)
-- [Asp.NET Core Documentation - Documentation about Asp.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+- [The .NET Homepage](https://dotnet.microsoft.com/)  -  You can find a lot of .NET Core resource on that
+- [The .NET Core Download](https://dotnet.microsoft.com/download/dotnet-core)  -  You can see what version are being supported and when the supports end
+- [Asp.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)  -  Documentation about Asp.NET Core 3.1
 - [Asp.NET Core Fundamentals - Microsoft Fundamentals documentation about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows)
 - [Asp.NET Core Tutorials - Microsoft tutorials about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-3.1)
 - [Asp.NET Core Get Started - Microsoft beginners guide about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows)
