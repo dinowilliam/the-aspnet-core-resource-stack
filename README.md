@@ -10,8 +10,11 @@ Below you can check a list of Asp.NET Core Resources:
 ### Tools
 
  *.NET Core SDK* - The .NET Core Software Development Kit - https://dotnet.microsoft.com/download
+ 
  *Visual Studio 2019 Community* - The Microsoft Development Tool Community Edition - https://visualstudio.microsoft.com/
+ 
  *Visual Studio Code* - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control - https://code.visualstudio.com/
+ 
  *SonarLint* - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code - https://www.sonarlint.org/
 
 ### Repositories
