@@ -8,30 +8,24 @@ Asp.NET Core is a free and open-source web framework, successor to ASP.NET, is a
 Below you can check a list of Asp.NET Core Resources:
 
 ### Tools
-
- *.NET Core SDK* - The .NET Core Software Development Kit - https://dotnet.microsoft.com/download
- 
- *Visual Studio 2019 Community* - The Microsoft Development Tool Community Edition - https://visualstudio.microsoft.com/
- 
- *Visual Studio Code* - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control - https://code.visualstudio.com/
- 
- *SonarLint* - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code - https://www.sonarlint.org/
+ - [*.NET Core SDK*  -  The .NET Core Software Development Kit](https://dotnet.microsoft.com/download) 
+ - [*Visual Studio 2019 Community*  -  The Microsoft Development Tool Community Edition](https://visualstudio.microsoft.com/) 
+ - [*Visual Studio Code* - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control]( https://code.visualstudio.com/) 
+ - [*SonarLint* - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code´](https://www.sonarlint.org/)
 
 ### Repositories
-
-Asp.NET Core Repository at Github - Github repository of Asp.NET Core - https://github.com/dotnet/aspnetcore
+- [Asp.NET Core Repository at Github - Github repository of Asp.NET Core](https://github.com/dotnet/aspnetcore)
 
 ### Sites
-
-The .NET Homepage - You can find a lot of .NET Core resource on that - https://dotnet.microsoft.com/
-The .NET Core Download- You can see what version are being supported and when the supports end- https://dotnet.microsoft.com/download/dotnet-core
-Asp.NET Core Documentation - Documentation about Asp.NET Core 3.1 - https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1
-Asp.NET Core Fundamentals - Microsoft Fundamentals documentation about Asp.NET Core - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows
-Asp.NET Core Tutorials - Microsoft tutorials about Asp.NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-3.1
-Asp.NET Core Get Started - Microsoft beginners guide about Asp.NET Core - https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows
-Asp.NET Core Docs Repository at Github - Github repository of Asp.NET Core documentation - https://github.com/dotnet/AspNetCore.Docs
-Using .NET Core in Visual Studio Code - How to on VSCode with .NET Core - https://code.visualstudio.com/docs/languages/dotnet
-Using Asp.NET Core with TypeScript - How to on how to use Asp.NET Core with Typescript - https://www.typescriptlang.org/docs/handbook/asp-net-core.html
+- [The .NET Homepage - You can find a lot of .NET Core resource on that](https://dotnet.microsoft.com/)
+- [The .NET Core Download- You can see what version are being supported and when the supports end](https://dotnet.microsoft.com/download/dotnet-core)
+- [Asp.NET Core Documentation - Documentation about Asp.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
+- [Asp.NET Core Fundamentals - Microsoft Fundamentals documentation about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows)
+- [Asp.NET Core Tutorials - Microsoft tutorials about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-3.1)
+- [Asp.NET Core Get Started - Microsoft beginners guide about Asp.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows)
+- [Asp.NET Core Docs Repository at Github - Github repository of Asp.NET Core documentation](https://github.com/dotnet/AspNetCore.Docs)
+- [Using .NET Core in Visual Studio Code - How to on VSCode with .NET Core](https://code.visualstudio.com/docs/languages/dotnet)
+- [Using Asp.NET Core with TypeScript - How to on how to use Asp.NET Core with Typescript](https://www.typescriptlang.org/docs/handbook/asp-net-core.html)
 
 ### Books
 
