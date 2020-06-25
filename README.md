@@ -1,5 +1,7 @@
 # The Asp.NET Core Resource Stack
 
+![Asp.NET Core](https://imgur.com/51Gxb0K, "Asp.NET Core"
+
 A List of resources to be used with Asp.NET Core!
 
 _**Disclaimer:** This ~article~ `readme` is mutatis mutandis, it's always evolving and can be altered at any time._
