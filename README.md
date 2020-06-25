@@ -37,5 +37,5 @@ Below you can check a list of Asp.NET Core Resources:
 - [ASP.NET Core gRPC for WCF Developers by Mark Rendle & Miranda Steiner](https://docs.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/)   -  Free book about Google gRPC with Asp.NET Core
 
 ### Materials
-- [eShopOnWeb - Sample ASP.NET Core 3.1 reference application, powered by Microsoft- https://github.com/dotnet-architecture/eShopOnWeb
-- [Bootstrap- Quickly design and customize responsiv
+- [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)  -  Sample ASP.NET Core 3.1 reference application, powered by Microsoft 
+- [Bootstrap](https://getbootstrap.com/) - Quickly design and customize responsive mobile-first sites
