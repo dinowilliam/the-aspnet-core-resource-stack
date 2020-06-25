@@ -7,16 +7,19 @@ _**Disclaimer:** This article is mutatis mutandis, it's always evolving and can 
 Asp.NET Core is a free and open-source web framework, successor to ASP.NET, is a modular cross-platform framework that runs on .NET Core (at the time this article was being written the support of .NET Framework are dropped at version 3.0 of Asp.NET Core, the last version is 3.1).
 Below you can check a list of Asp.NET Core Resources:
 
-Tools
-.NET Core SDK - The .NET Core Software Development Kit - https://dotnet.microsoft.com/download
-Visual Studio 2019 Community - The Microsoft Development Tool Community Edition - https://visualstudio.microsoft.com/
-Visual Studio Code - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control - https://code.visualstudio.com/
-SonarLint - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code - https://www.sonarlint.org/
+### Tools
 
-Repositories
+ *.NET Core SDK* - The .NET Core Software Development Kit - https://dotnet.microsoft.com/download
+ *Visual Studio 2019 Community* - The Microsoft Development Tool Community Edition - https://visualstudio.microsoft.com/
+ *Visual Studio Code* - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control - https://code.visualstudio.com/
+ *SonarLint* - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code - https://www.sonarlint.org/
+
+### Repositories
+
 Asp.NET Core Repository at Github - Github repository of Asp.NET Core - https://github.com/dotnet/aspnetcore
 
-Sites
+### Sites
+
 The .NET Homepage - You can find a lot of .NET Core resource on that - https://dotnet.microsoft.com/
 The .NET Core Download- You can see what version are being supported and when the supports end- https://dotnet.microsoft.com/download/dotnet-core
 Asp.NET Core Documentation - Documentation about Asp.NET Core 3.1 - https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1
@@ -27,7 +30,8 @@ Asp.NET Core Docs Repository at Github - Github repository of Asp.NET Core d
 Using .NET Core in Visual Studio Code - How to on VSCode with .NET Core - https://code.visualstudio.com/docs/languages/dotnet
 Using Asp.NET Core with TypeScript - How to on how to use Asp.NET Core with Typescript - https://www.typescriptlang.org/docs/handbook/asp-net-core.html
 
-Books
+### Books
+
 ASP.NET Core Succinctly by Simone Chiaretta & Ugo Lattanzi - Free book about Asp.NET Core from the Syncfusion Series Succinctly - https://www.syncfusion.com/ebooks/asp_net_core_succinctly
 ASP.NET Core 2 Succinctly by Simone Chiaretta & Ugo Lattanzi - Free book about Asp.NET Core 2 from the Syncfusion Series Succinctly - https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly
 Using .NET Core, Docker, and Kubernetes Succinctly by Michele Aponte - Using .NET Core with containers and containers engines - https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly
@@ -36,6 +40,6 @@ Architecting Cloud Native .NET Applications for Azure by Rob Vettor & Steve "ar
 .NET Microservices: Architecture for Containerized .NET Applications by Cesar de la Torre & Bill Wagner & Mike Rousos - Free book about Microservices in ASP.NET Core - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/
 ASP.NET Core gRPC for WCF Developers by Mark Rendle & Miranda Steiner - Free book about Google gRPC with Asp.NET Core - https://docs.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/
 
-Materials
+### Materials
 eShopOnWeb - Sample ASP.NET Core 3.1 reference application, powered by Microsoft- https://github.com/dotnet-architecture/eShopOnWeb
 Bootstrap- Quickly design and customize responsiv
