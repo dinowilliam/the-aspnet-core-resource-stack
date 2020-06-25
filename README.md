@@ -8,10 +8,10 @@ Asp.NET Core is a free and open-source web framework, successor to ASP.NET, is a
 Below you can check a list of Asp.NET Core Resources:
 
 ### Tools
- - [*.NET Core SDK*  -  The .NET Core Software Development Kit](https://dotnet.microsoft.com/download) 
- - [*Visual Studio 2019 Community*  -  The Microsoft Development Tool Community Edition](https://visualstudio.microsoft.com/) 
- - [*Visual Studio Code* - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control]( https://code.visualstudio.com/) 
- - [*SonarLint* - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code´](https://www.sonarlint.org/)
+ - [*.NET Core SDK*](https://dotnet.microsoft.com/download) - The .NET Core Software Development Kit
+ - [*Visual Studio 2019 Community*](https://visualstudio.microsoft.com/) - The Microsoft Development Tool Community Edition
+ - [*Visual Studio Code*](https://code.visualstudio.com/) - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control
+ - [*SonarLint*](https://www.sonarlint.org/)  - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code
 
 ### Repositories
 - [Asp.NET Core Repository at Github - Github repository of Asp.NET Core](https://github.com/dotnet/aspnetcore)
