@@ -7,6 +7,7 @@ A List of resources to be used with Asp.NET Core!
 _**Warning:** This ~article~ `readme` is mutatis mutandis, it's always evolving and can be altered at any time._
 
 Asp.NET Core is a free and open-source web framework, successor to ASP.NET, is a modular cross-platform framework that runs on .NET Core (at the time this article was being written the support of .NET Framework are dropped at version 3.0 of Asp.NET Core, the last version is 3.1).
+
 Below you can check a list of Asp.NET Core Resources:
 
 ### Tools
